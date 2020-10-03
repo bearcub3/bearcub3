@@ -12,11 +12,12 @@ Are you interested in looking at my UI and UX design?
 * [Class Mates prototype: Udacity UX](https://www.figma.com/proto/j9HNFkTHxpCpe80PReo4Ty/Class-Mates---Hi-Fi-Prototype?node-id=110%3A1&scaling=scale-down)
 * [Class Mates Case Study: Udacity UX](https://drive.google.com/file/d/17T6bQ78pZTdeLl6H1FCRYlWqqTQNxo-g/view)
 
-I'd like to be more specialized in `Front-end development in conjunction with UX`, however, I am studying hard to gain a better working knowledge in back-end development as well.    
+I'd like to be more specialized in `Front-end development in conjunction with UX`,    
+however, I am studying hard to gain a better working knowledge in back-end development as well.    
 My life-long learning with web development continues.     
 If you are interested in reading my tech blog, check [this](https://bearcub3.hashnode.dev/) out, I started writing blogs recently.
 
-I'd love to work with talented, intelligent people who know the value of diversity and inclusivity!!!    
+I'd love to work with talented, intelligent people who know the value of diversity and inclusivity!!!  
 Thank you for stopping by and if you are looking for someone to hire, please drop me a line! 
 
 
