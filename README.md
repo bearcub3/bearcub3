@@ -15,6 +15,15 @@ Are you interested in looking at my UI and UX design?
 I'd like to be more specialized in `Front-end development in conjunction with UX`,    
 however, I am studying hard to gain a better working knowledge in back-end development as well.    
 My life-long learning with web development continues.     
+
+```
+My current tech stacks are 
+
+Front-end: HTML5, CSS3, JS, REACTJS, REDUX, REACT NATIVE, SASS, CSS-In-JS, WEBPACK(deployed my website successfully!) 
+Back-end: Python, PostgreSQL, SQLAlchemy, MongoDB, Nodejs, Expressjs
+Design: Adobe Photoshops, Figma
+```
+
 If you are interested in reading my tech blog, check [this](https://bearcub3.hashnode.dev/) out, I started writing blogs recently.
 
 I'd love to work with talented, intelligent people who know the value of diversity and inclusivity!!!  
