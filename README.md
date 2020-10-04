@@ -7,10 +7,10 @@ after moving to the U.K from Seoul, South Korea at the end of 2017.
 I am a talented and professional woman with extensive experience in web/editorial design.    
 Are you interested in looking at my UI and UX design?    
 
-* [Pokie prototype 1](https://www.figma.com/file/EtgJLsE3UPEvSRBzHtWLjO/Untitled?node-id=0%3A1)
-* [Pokie prototype 2](https://www.figma.com/proto/EtgJLsE3UPEvSRBzHtWLjO/Untitled?node-id=7%3A2&scaling=scale-down)
-* [Class Mates prototype: Udacity UX](https://www.figma.com/proto/j9HNFkTHxpCpe80PReo4Ty/Class-Mates---Hi-Fi-Prototype?node-id=110%3A1&scaling=scale-down)
-* [Class Mates Case Study: Udacity UX](https://drive.google.com/file/d/17T6bQ78pZTdeLl6H1FCRYlWqqTQNxo-g/view)
+* [Pokie Android prototype 1](https://www.figma.com/file/EtgJLsE3UPEvSRBzHtWLjO/Untitled?node-id=0%3A1)
+* [Pokie Android prototype 2](https://www.figma.com/proto/EtgJLsE3UPEvSRBzHtWLjO/Untitled?node-id=7%3A2&scaling=scale-down)
+* [Class Mates iOS prototype: Udacity UX](https://www.figma.com/proto/j9HNFkTHxpCpe80PReo4Ty/Class-Mates---Hi-Fi-Prototype?node-id=110%3A1&scaling=scale-down)
+* [Class Mates iOS Case Study: Udacity UX](https://drive.google.com/file/d/17T6bQ78pZTdeLl6H1FCRYlWqqTQNxo-g/view)
 
 I'd like to be more specialized in `Front-end development in conjunction with UX`,    
 however, I am studying hard to gain a better working knowledge in back-end development as well.    
