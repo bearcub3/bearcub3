@@ -5,7 +5,8 @@ My name is `Go-Un` aka `Emilie`, I am an ex-designer who trasitioned to become a
 after moving to the U.K from Seoul, South Korea at the end of 2017.    
 
 I am a talented and professional woman with extensive experience in web/editorial design.    
-Are you interested in looking at my UI and UX design?    
+Are you interested in looking at my UI and UX design?
+I'd love to get involved in solving complex problems transitioning to approachable and easy-to-use design.
 
 * [Pokie Android prototype 1](https://www.figma.com/file/EtgJLsE3UPEvSRBzHtWLjO/Untitled?node-id=0%3A1)
 * [Pokie Android prototype 2](https://www.figma.com/proto/EtgJLsE3UPEvSRBzHtWLjO/Untitled?node-id=7%3A2&scaling=scale-down)
