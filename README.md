@@ -3,11 +3,13 @@
 Wecome to my github!    
 My name is `Go-Un` aka `Emilie`, I am an ex-designer who trasitioned to become a developer    
 after moving to the U.K from Seoul, South Korea at the end of 2017.    
-I'd love working on solving complex problems transitioning to approachable and easy-to-use design.
-My life-long learning with web development continues.   
-I am not actively looking for a job to focus on my study at the moment    
-as an immigrant and a woman with career break, I decided to study in Information Technology.    
+I love working on solving complex problems transitioning to approachable and easy-to-use designs.
+My life-long learning with web development continues.      
+As an immigrant and a woman with a career break, I decided to study Information Technology in the UK. 
 If you are interested in reading my tech blog, check [this](https://bearcub3.hashnode.dev/) out.
+
+Update:    
+I have retained excellent grades overall; if you are interested in reading my literature reviews and other work related to my IT degree, please visit my Linkedin. I am also looking forward to studying further in Human-Computer Interaction Design at City, university of London later this year.    
 
 
 <!--
