@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-Welcome to my github!    
-My name is `Go-Un` aka `Emilie`!    
-I love working on solving complex problems transitioning to approachable and easy-to-use designs.    
-I have extensive experience working with the web along with HTML, CSS and general UI design.  
+I am a visionary designer and more like an architect who perceives things holistically and joins the dots systematically.
+Design is not only about creating a minimalistic and aesthetic user interface but creating a seamless end-to-end user experience backed by data in the iterative nature of the product development cycle.
 
-If you are interested in my academic writings, please visit my LinkedIn.    
-I am interested in working in a multidisciplinary role in conjunction with front-end development and UX design.   
-As a proponent of Inclusive design and User-centred design, my learning will continue and I would love to work with people whose views align with mine.
+As a human-centred designer, I'd like to shift the way how business people think. Your business could make an impact on cultural and social changes if you invest more in design and research, and allow designers to lead the product or at least foster a culture where designers could thrive.
+In turn, your target users, customers and the public will see the changes, and that's where design can bring more value and revenue for businesses, not just by creating a tangible output.
+
+We can take the initiative to make such an impact in society together.
+Hire me!
 
 
 <!--
